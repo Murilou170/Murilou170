@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Murilou170
+- 👋 Hi, I’m Murilo Rodrigues 
 - 👀 I’m interested in developing applications for large companies
 - 🌱 I’m currently learning Flutter/ Dart
 - 💞️ I’m looking to collaborate on Flutter
