@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murilo Rodrigues 
-- 👀 I’m interested in developing applications for large companies
+- 👀 I’m interested in developing applications for BIG companies
 - 🌱 I’m currently learning Flutter/ Dart
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me my LinkedIn: https://www.linkedin.com/in/murilorod/
