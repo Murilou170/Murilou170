@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Murilo Rodrigues
-- 🌱 I’m a Senior software Developer Flutter/ Dart and git
+- 🌱 I’m a Senior Software Developer Flutter/ Dart 
 - 📫 How to reach me my LinkedIn: https://www.linkedin.com/in/murilorod/
+- Besides I'll be making a plan and look forward to improving all the time and to feel a sense of satisfaction at the end of each day knowing that in a   little while I'll be where I should be in my career.
 
 <div align="center">
   <a href="https://github.com/Murilou170">
