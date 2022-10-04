@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murilo Rodrigues
-- 🌱 I’m currently learning Flutter/ Dart
+- 🌱 I’m a Senior software Developer Flutter/ Dart and git
 - 📫 How to reach me my LinkedIn: https://www.linkedin.com/in/murilorod/
 
 <div align="center">
