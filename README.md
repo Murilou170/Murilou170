@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murilo Rodrigues
-- 🌱 I’m a Senior Software Developer Flutter/ Dart who has been coding ever since 2014
-- 📫 How to reach me my LinkedIn: https://www.linkedin.com/in/murilorod/
+- 🌱 I’m a Software Developer who has been coding ever since 2014
+- 📫 If you want to hire me just call me on my LinkedIn: https://www.linkedin.com/in/murilorod/ where we can share some of our knowledge and do a better network
 - Besides I'll be making a plan and look forward to improving all the time and to feel a sense of satisfaction at the end of each day knowing that in a   little while I'll be where I should be in my career.
 
 <div align="center">
